@@ -1,0 +1,13 @@
+Dataset Name:
+Cows Disease Dataset
+
+Dataset Source:
+https://www.kaggle.com/datasets
+
+Classes:
+Healthy
+Lumpy Skin Disease
+Foot-and-Mouth Disease
+
+Total Images:
+3244
