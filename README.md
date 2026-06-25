@@ -1,5 +1,5 @@
 # CNN-Based Cow Disease Classification Using Deep Learning
-
+ 
 ## Project Overview
 
 This project presents a deep learning approach for automatic livestock disease classification using Convolutional Neural Networks (CNN) and MobileNetV2. The objective is to classify cattle images into three disease categories and compare the performance of a custom CNN model with a transfer learning model (MobileNetV2).
