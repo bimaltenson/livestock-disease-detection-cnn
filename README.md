@@ -1,4 +1,4 @@
-# Livestock Disease Detection Using CNN
+# CNN-Based Cow Disease Classification Using Deep Learning
 
 ## Project Overview
 
